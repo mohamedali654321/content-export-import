@@ -4,7 +4,7 @@
   "description": "This is a plugin for content import and export.",
   "strapi": {
     "name": "Content Export & Import",
-    "icon": "plug",
+    "icon": "download",
     "description": "Description of content-export-import plugin."
   },
   "scripts": {
